@@ -1,7 +1,7 @@
 {
   "name": "grunt-chrome-extension-reload",
   "description": "Reload a tab during chrome extension development.",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "homepage": "https://github.com/freedomflyer/grunt-chrome-extension-reload",
   "author": {
     "name": "Spencer Gardner",
